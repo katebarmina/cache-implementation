@@ -1,0 +1,4 @@
+2022-09-12 11:25:06,574 INFO com.barmina.cacheimplementation.CacheImplementationApplicationTests [main] Starting CacheImplementationApplicationTests using Java 16.0.2 on DESKTOP-VJV39HM with PID 1728 (started by Kate in C:\Users\Kate\IdeaProjects\cache-implementation)
+2022-09-12 11:25:06,637 DEBUG com.barmina.cacheimplementation.CacheImplementationApplicationTests [main] Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-09-12 11:25:06,639 INFO com.barmina.cacheimplementation.CacheImplementationApplicationTests [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-12 11:25:10,245 INFO com.barmina.cacheimplementation.CacheImplementationApplicationTests [main] Started CacheImplementationApplicationTests in 4.8 seconds (JVM running for 8.228)
